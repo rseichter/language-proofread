@@ -1,0 +1,18 @@
+{
+    "context-menu": {
+        "atom-text-editor": [{
+            "label": "Cleanup (selection or full text)",
+            "command": "language-proofread:proofreadText"
+        }]
+    },
+    "menu": [{
+        "label": "Packages",
+        "submenu": [{
+            "label": "Language proofread",
+            "submenu": [{
+                "label": "Cleanup (selection or full text)",
+                "command": "language-proofread:proofreadText"
+            }]
+        }]
+    }]
+}

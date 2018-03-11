@@ -1,0 +1,17 @@
+{
+  "name": "language-proofread",
+  "main": "./lib/language-proofread",
+  "version": "0.0.0",
+  "description": "Grammar for Distributed Proofreading projects",
+  "keywords": [],
+  "activationCommands": {
+    "atom-workspace": "language-proofread:proofreadText"
+  },
+  "repository": "https://github.com/rseichter/language-proofread.git",
+  "author": "Ralph Seichter",
+  "license": "MIT",
+  "engines": {
+    "atom": ">=1.0.0 <2.0.0"
+  },
+  "dependencies": {}
+}

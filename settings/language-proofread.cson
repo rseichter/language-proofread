@@ -1,0 +1,9 @@
+".source.proofread":
+    "editor":
+        "autoIndentOnPaste": false
+        "commentStart": ">"
+        "preferredLineLength": 72
+        "softTabs": true
+        "softWrap": true
+        "softWrapAtPreferredLineLength": true
+        "tabLength": 2

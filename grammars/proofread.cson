@@ -1,0 +1,31 @@
+"scopeName": "source.proofread"
+"name": "proofread"
+"fileTypes": ["dp", "proofread"]
+
+"patterns": [
+    {
+        "match": "\\b\\d+\\b"
+        "name": "constant.numeric.proofread"
+    }
+    {
+        "match": "^(>\\s*){4}.*"
+        "name": "variable.language.proofread"
+    }
+    {
+        "match": "^(>\\s*){3}.*"
+        "name": "storage.type.proofread"
+    }
+    {
+        "match": "^(>\\s*){2}.*"
+        "name": "string.other.proofread"
+    }
+    {
+        "match": "^>.*"
+        "name": "markup.quote.proofread"
+    }
+    {
+        "begin": "^-- +"
+        "end": "\\z"
+        "name": "comment.block.proofread"
+    }
+]
