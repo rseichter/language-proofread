@@ -1,7 +1,7 @@
 {
   "name": "language-proofread",
   "main": "./lib/language-proofread",
-  "version": "0.0.0",
+  "version": "0.0.1",
   "description": "Grammar for Distributed Proofreading projects",
   "keywords": [],
   "activationCommands": {
