@@ -8,24 +8,11 @@
         "name": "constant.numeric.proofread"
     }
     {
-        "match": "^(>\\s*){4}.*"
+        "match": "-\\s*$"
         "name": "variable.language.proofread"
     }
     {
-        "match": "^(>\\s*){3}.*"
-        "name": "storage.type.proofread"
-    }
-    {
-        "match": "^(>\\s*){2}.*"
+        "match": "[\\\"']"
         "name": "string.other.proofread"
-    }
-    {
-        "match": "^>.*"
-        "name": "markup.quote.proofread"
-    }
-    {
-        "begin": "^-- +"
-        "end": "\\z"
-        "name": "comment.block.proofread"
     }
 ]

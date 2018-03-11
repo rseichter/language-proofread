@@ -1,5 +1,5 @@
 {
   "atom-workspace": {
-    "ctrl-alt-c": "language-proofread:proofreadText"
+    "ctrl-alt-p": "language-proofread:proofreadText"
   }
 }
