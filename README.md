@@ -1,3 +1,8 @@
+Atom developers [discontinued](https://github.blog/2022-06-08-sunsetting-atom/) the editor in 2022,
+so this repository will be archived as of August 2023.
+
+---
+
 This is a grammar package for the [Atom](https://atom.io/) editor.
 It is aimed at processing text for the Distributed Proofreaders projects
 ([Canada](http://www.pgdpcanada.net/) and [USA](https://www.pgdp.net/)).
